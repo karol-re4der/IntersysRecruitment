@@ -6,6 +6,7 @@ using System.Text;
 
 namespace IntersysRecruitment
 {
+    //Permutation
     class Task_Six
     {
         static void Main(string[] args)

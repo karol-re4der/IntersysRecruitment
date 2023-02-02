@@ -6,6 +6,7 @@ using System.Text;
 
 namespace IntersysRecruitment
 {
+    //Palindrome
     class Task_Five
     {
         //Assumption: not a palinderom if empty string, not a palindrome if letter case does not match (eg. "Abuttuba")

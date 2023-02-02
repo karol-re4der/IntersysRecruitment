@@ -6,7 +6,8 @@ using System.Text;
 
 namespace IntersysRecruitment
 {
-    class Task_Four
+    //Primes
+    class Task_Eight
     {
         static void Main(string[] args)
         {

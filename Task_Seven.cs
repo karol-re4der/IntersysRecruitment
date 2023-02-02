@@ -6,6 +6,7 @@ using System.Text;
 
 namespace IntersysRecruitment
 {
+    //Powers of two
     class Task_Seven
     {
         static void Main(string[] args)

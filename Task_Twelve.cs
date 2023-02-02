@@ -6,6 +6,7 @@ using System.Text;
 
 namespace IntersysRecruitment
 {
+    //Digit Sum
     class Task_Twelve
     {
         static void Main(string[] args)

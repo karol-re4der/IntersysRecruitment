@@ -6,7 +6,8 @@ using System.Text;
 
 namespace IntersysRecruitment
 {
-    class Task_Four
+    //Common digit
+    class Task_Eleven
     {
         static void Main(string[] args)
         {
